@@ -4,10 +4,13 @@
     "manifest_version": 3,
     "description": "Easily edit websites temporarily by a click of a button.",
     "permissions": [
-        "activeTab"
+        "storage",
+        "declarativeContent",
+        "activeTab",
+        "scripting"
     ],
     "action": {
-        "default_popup": "popup/popup.html",
+        "default_popup": "popup.html",
         "default_icon": {
             "16": "icons/16x16.png",
             "32": "icons/32x32.png",
@@ -20,15 +23,5 @@
         "32": "icons/32x32.png",
         "48": "icons/48x48.png",
         "128": "icons/128x128.png"
-    },
-    "content_scripts": [
-        {
-            "matches": [
-                "<all_urls>"
-            ],
-            "js": [
-                "content_scripts/content.js"
-            ]
-        }
-    ]
+    }
 }
