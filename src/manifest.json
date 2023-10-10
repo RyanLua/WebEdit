@@ -4,8 +4,6 @@
     "manifest_version": 3,
     "description": "Easily edit websites temporarily by a click of a button.",
     "permissions": [
-        "storage",
-        "declarativeContent",
         "activeTab",
         "scripting"
     ],
