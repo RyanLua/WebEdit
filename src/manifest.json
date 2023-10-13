@@ -14,9 +14,9 @@
         "service_worker": "background.js"
     },
     "icons": {
-        "16": "icons/DarkEditRegular16.png",
-        "32": "icons/DarkEditRegular32.png",
-        "48": "icons/DarkEditRegular48.png",
-        "128": "icons/DarkEditRegular128.png"
+        "16": "icons/LightEditRegular16.png",
+        "32": "icons/LightEditRegular32.png",
+        "48": "icons/LightEditRegular48.png",
+        "128": "icons/LightEditRegular128.png"
     }
 }
