@@ -17,11 +17,11 @@
             "48": "icons/LightEditRegular48.png",
             "128": "icons/LightEditRegular128.png"
         },
-        "default_title": "Click to toggle editing or press Ctrl(Win)/Command(Mac)+B."
+        "default_title": "Click to toggle editing or press Ctrl(Win)/Command(Mac)+Comma."
     },
     "commands": {
         "_execute_action": {
-            "suggested_key": "Ctrl+B"
+            "suggested_key": "Ctrl+Comma"
         }
     },
     "icons": {
