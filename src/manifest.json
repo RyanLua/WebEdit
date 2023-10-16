@@ -1,30 +1,33 @@
 {
     "name": "Web Edit",
+    "description": "Easily edit websites temporarily by a click of a button.",
     "version": "0.0.0.1",
     "manifest_version": 3,
-    "description": "Easily edit websites temporarily by a click of a button.",
     "permissions": [
         "activeTab",
         "scripting"
     ],
-    "action": {
-        "default_title": "Toggle editing"
-    },
     "background": {
         "service_worker": "background.js"
+    },
+    "action": {
+        "default_icon": {
+            "16": "icons/LightEditRegular16.png",
+            "32": "icons/LightEditRegular32.png",
+            "48": "icons/LightEditRegular48.png",
+            "128": "icons/LightEditRegular128.png"
+        },
+        "default_title": "Click to toggle editing or press Ctrl(Win)/Command(Mac)+B."
+    },
+    "commands": {
+        "_execute_action": {
+            "suggested_key": "Ctrl+B"
+        }
     },
     "icons": {
         "16": "icons/LightEditRegular16.png",
         "32": "icons/LightEditRegular32.png",
         "48": "icons/LightEditRegular48.png",
         "128": "icons/LightEditRegular128.png"
-    },
-    "commands": {
-        "_execute_action": {
-            "suggested_key": {
-                "default": "Ctrl+Shift+X",
-                "mac": "Command+Shift+X"
-            }
-        }
     }
 }
