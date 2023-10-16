@@ -18,5 +18,13 @@
         "32": "icons/LightEditRegular32.png",
         "48": "icons/LightEditRegular48.png",
         "128": "icons/LightEditRegular128.png"
+    },
+    "commands": {
+        "_execute_action": {
+            "suggested_key": {
+                "default": "Ctrl+Shift+X",
+                "mac": "Command+MacCtrl+X"
+            }
+        }
     }
 }
