@@ -16,20 +16,20 @@ function toggleExtensionState(tab) {
             chrome.action.setIcon({
                 tabId: tab.id,
                 path: {
-                    "16": "icons/LightEditFilled16.png",
-                    "32": "icons/LightEditFilled32.png",
-                    "48": "icons/LightEditFilled48.png",
-                    "128": "icons/LightEditFilled128.png"
+                    "16": "icons/edge/LightEditFilled16.png",
+                    "32": "icons/edge/LightEditFilled32.png",
+                    "48": "icons/edge/LightEditFilled48.png",
+                    "128": "icons/edge/LightEditFilled128.png"
                 }
             });
         } else if (nextState === "") {
             chrome.action.setIcon({
                 tabId: tab.id,
                 path: {
-                    "16": "icons/LightEditRegular16.png",
-                    "32": "icons/LightEditRegular32.png",
-                    "48": "icons/LightEditRegular48.png",
-                    "128": "icons/LightEditRegular128.png"
+                    "16": "icons/edge/LightEditRegular16.png",
+                    "32": "icons/edge/LightEditRegular32.png",
+                    "48": "icons/edge/LightEditRegular48.png",
+                    "128": "icons/edge/LightEditRegular128.png"
                 }
             });
         }
