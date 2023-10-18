@@ -22,7 +22,6 @@
     "background": {
         "service_worker": "background.js"
     },
-    "default_locale": "en",
     "commands": {
         "_execute_action": {
             "suggested_key": "Ctrl+Comma"
