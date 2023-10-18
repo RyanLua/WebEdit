@@ -6,6 +6,10 @@ function toggleExtensionState(tab) {
             tabId: tab.id,
             text: nextState,
         });
+        chrome.action.setBadgeBackgroundColor({
+            tabId: tab.id,
+            color: '#000000',
+        });
 
         chrome.scripting.executeScript({
             target: { tabId: tab.id },
