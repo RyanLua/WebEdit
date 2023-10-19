@@ -16,7 +16,7 @@
             "48": "icons/LightEditRegular48.png",
             "128": "icons/LightEditRegular128.png"
         },
-        "default_title": "Click to toggle editing or press Ctrl(Win)/Command(Mac)+Comma."
+        "default_title": "Click to toggle editing or press Ctrl/Command + Comma."
     },
     "author": "ryan.luu@ryanluu.dev",
     "background": {
