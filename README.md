@@ -21,6 +21,8 @@ Easily edit websites temporarily by a click of a button.
 | --- | --- | --- | 
 | <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>,</kbd> | Toggle editing | Toggles on and off editing mode. |
 | <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>S</kbd> | Save as | Saves the active tab including your edits as a file. |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>B</kbd> | **Bold** | Toggles if new or selected text is **bolded**. |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>I</kbd> | *Italic* | Toggles if new or selected text is *italicized*. |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>U</kbd> | <ins>Underline</ins> | Toggles if new or selected text is <ins>underlined</ins>. |
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>B</kbd> | Bold | Toggles if new or selected text is **bolded**. |
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>I</kbd> | Italic | Toggles if new or selected text is *italicized*. |
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>U</kbd> | Underline | Toggles if new or selected text is <ins>underlined</ins>. |
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>Z</kbd> | Undo | Undo the last action/edit. |
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>Y</kbd> | Redo | Redo the last action/edit. |
