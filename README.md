@@ -17,10 +17,10 @@ Easily edit websites temporarily by a click of a button.
 
 ### Shortcuts
 
-| Shortcut | Action | 
-| --- | --- |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>,</kbd> | Toggle editing |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>S</kbd> | Save edits as file |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>B</kbd> | **Bold text** |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>I</kbd> | *Italic text* |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>I</kbd> | <ins>Underline text</ins> |
+| Shortcut | Action | Description |
+| --- | --- | --- | 
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>,</kbd> | Toggle editing | Toggles on and off editing mode. |
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>S</kbd> | Save as | Saves the active tab including your edits as a file. |
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>B</kbd> | **Bold** | Toggles if new or selected text is **bolded**. |
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>I</kbd> | *Italic text* | Toggles if new or selected text is *italicized*. |
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>U</kbd> | <ins>Underline text</ins> | Toggles if new or selected text is <ins>underlined</ins>. |
