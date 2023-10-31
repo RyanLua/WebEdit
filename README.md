@@ -12,3 +12,15 @@
 ![GitHub](https://img.shields.io/github/license/RyanLua/WebEdit)
 
 Easily edit websites temporarily by a click of a button.
+
+## Usage
+
+### Shortcuts
+
+| Shortcut | Action | 
+| --- | --- |
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>,</kbd> | Toggle editing |
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>S</kbd> | Save edits as file |
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>B</kbd> | **Bold text** |
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>I</kbd> | *Italic text* |
+| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>I</kbd> | <ins>Underline text</ins> |
