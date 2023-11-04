@@ -40,17 +40,6 @@ body:
       label: Other details
       description: Is there anything else we should know or have?
       placeholder: The bug is able to be only reproduced able this percent of the time
-  - type: dropdown
-    id: platform
-    attributes:
-      label: Platform
-      description: What browser is this bug appearing on?
-      multiple: true
-      options:
-        - Google Chrome
-        - Opera
-        - Microsoft Edge
-        - Firefox
   - type: input
     id: extension-version
     attributes:
