@@ -24,3 +24,9 @@ Easily edit websites temporarily by a click of a button.
 | <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>U</kbd> | Underline | Toggles if new or selected text is <ins>underlined</ins>. |
 | <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>Z</kbd> | Undo | Undo the last action/edit. |
 | <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>Y</kbd> | Redo | Redo the last action/edit. |
+
+## Screenshots
+
+![Screenshot 1](assets/Screenshot%201%20Web%20Edit.png)
+![Screenshot 2](assets/Screenshot%202%20Web%20Edit.png)
+![Screenshot 3](assets/Screenshot%203%20Web%20Edit.png)
