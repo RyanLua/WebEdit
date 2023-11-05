@@ -1,13 +1,13 @@
-<picture>
-  <img align=right src="assets/Icon%20Web%20Edit.png">
-</picture>
+<p align="center">
+  <img alt="Web Edit Icon" src="assets/Icon%20Web%20Edit.png" />
+  <h1 align="center">Web Edit</h1>
+</p>
 
-# Web Edit
+<div align="center">
 
-![GitHub top language](https://img.shields.io/github/languages/top/RyanLua/WebEdit)
-![GitHub repo size](https://img.shields.io/github/repo-size/RyanLua/WebEdit)
-![GitHub Repo stars](https://img.shields.io/github/stars/RyanLua/WebEdit)
-![GitHub](https://img.shields.io/github/license/RyanLua/WebEdit)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/RyanLua/WebEdit?style=for-the-badge&color=f3633d) ![GitHub license](https://img.shields.io/github/license/RyanLua/WebEdit?style=for-the-badge&color=f3633d) ![GitHub license](https://img.shields.io/github/license/RyanLua/WebEdit?style=for-the-badge&color=f3633d) ![GitHub Repo stars](https://img.shields.io/github/stars/RyanLua/WebEdit?style=for-the-badge&color=f3633d)
+
+</div>
 
 Easily edit websites temporarily by a click of a button.
 
