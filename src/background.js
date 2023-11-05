@@ -18,29 +18,6 @@ function toggleExtensionState(tab) {
             target: { tabId: tab.id },
             files: ['content.js']
         });
-
-        // Set icon
-        if (nextState === "ON") {
-            chrome.action.setIcon({
-                tabId: tab.id,
-                path: {
-                    "16": "icons/edge/LightEditFilled16.png",
-                    "32": "icons/edge/LightEditFilled32.png",
-                    "48": "icons/edge/LightEditFilled48.png",
-                    "128": "icons/edge/LightEditFilled128.png"
-                }
-            });
-        } else if (nextState === "") {
-            chrome.action.setIcon({
-                tabId: tab.id,
-                path: {
-                    "16": "icons/edge/LightEditRegular16.png",
-                    "32": "icons/edge/LightEditRegular32.png",
-                    "48": "icons/edge/LightEditRegular48.png",
-                    "128": "icons/edge/LightEditRegular128.png"
-                }
-            });
-        }
     });
 }
 

@@ -1,7 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/DarkEditRegular128.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/LightEditRegular128.png">
-  <img align=right src="assets/LightEditRegular128.png">
+  <img align=right src="assets/Icon%20Web%20Edit.png">
 </picture>
 
 # Web Edit

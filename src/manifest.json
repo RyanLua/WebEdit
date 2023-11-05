@@ -4,18 +4,12 @@
     "description": "Easily edit websites temporarily with a click of a button.",
     "version": "0.0.1",
     "icons": {
-        "16": "icons/LightEditRegular16.png",
-        "32": "icons/LightEditRegular32.png",
-        "48": "icons/LightEditRegular48.png",
-        "128": "icons/LightEditRegular128.png"
+        "16": "icons/16.png",
+        "32": "icons/32.png",
+        "48": "icons/48.png",
+        "128": "icons/128.png"
     },
     "action": {
-        "default_icon": {
-            "16": "icons/edge/LightEditRegular16.png",
-            "32": "icons/edge/LightEditRegular32.png",
-            "48": "icons/edge/LightEditRegular48.png",
-            "128": "icons/edge/LightEditRegular128.png"
-        },
         "default_title": "Click to toggle editing or press Ctrl/⌘ + Comma."
     },
     "author": "ryan.luu@ryanluu.dev",
@@ -27,10 +21,6 @@
             "suggested_key": "Ctrl+Comma"
         }
     },
-    "permissions": [
-        "activeTab",
-        "scripting",
-        "contextMenus"
-    ],
+    "permissions": ["activeTab", "scripting", "contextMenus"],
     "version_name": "0.1 dev"
 }
