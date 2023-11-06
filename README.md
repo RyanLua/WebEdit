@@ -9,11 +9,15 @@
 
 </div>
 
-Easily edit websites temporarily by a click of a button.
+Easily edit websites temporarily with the click of a button. No coding or knowledge needed. Just a click to start editing and another to stop.
 
 ## Usage
 
+To use Web Edit once you install, click the extension or use <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>,</kbd> in website open you want to edit.
+
 ### Shortcuts
+
+Web Edit supports shortcuts, see below for a table of all the shortcuts.
 
 | Shortcut | Action | Description |
 | --- | --- | --- | 
