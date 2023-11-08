@@ -1,0 +1,22 @@
+{
+  "application_title": {
+    "message": "Web Edit",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "Easily edit websites temporarily with a click of a button.",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "Click to toggle editing or press Ctrl/⌘ + Comma.",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  },
+  "context_menu_title": {
+    "message": "Edit web page",
+    "description": "The title of the context menu item. Shown when you right click a page."
+  },
+  "badge_text": {
+    "message": "ON",
+    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
+  }
+}
