@@ -1,0 +1,22 @@
+{
+  "application_title": {
+    "message": "ওয়েব সম্পাদনা",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "একটি বোতামে ক্লিক করে অস্থায়ীভাবে ওয়েবসাইটগুলি সহজেই সম্পাদনা করুন৷",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "সম্পাদনা টগল করতে ক্লিক করুন বা Ctrl/⌘ + কমা টিপুন।",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  },
+  "context_menu_title": {
+    "message": "ওয়েব পৃষ্ঠা সম্পাদনা করুন",
+    "description": "The title of the context menu item. Shown when you right click a page."
+  },
+  "badge_text": {
+    "message": "চালু",
+    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
+  }
+}
