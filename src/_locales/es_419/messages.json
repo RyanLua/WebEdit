@@ -1,0 +1,22 @@
+{
+  "application_title": {
+    "message": "Editar Web",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "Edite fácilmente sitios web temporalmente con solo hacer clic en un botón.",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "Haga clic para alternar la edición o presione Ctrl/⌘ + Coma.",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  },
+  "context_menu_title": {
+    "message": "Editar página web",
+    "description": "The title of the context menu item. Shown when you right click a page."
+  },
+  "badge_text": {
+    "message": "EN",
+    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
+  }
+}
