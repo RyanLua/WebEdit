@@ -1,7 +1,7 @@
 // Function to toggle extension state
 function toggleExtensionState(tab) {
     chrome.action.getBadgeText({ tabId: tab.id }).then(prevState => {
-        const nextState = prevState === 'ON' ? '' : 'ON';
+        const nextState = prevState === chrome.i18n.getMessage("badge_text") ? '' : chrome.i18n.getMessage("badge_text");
 
         // Set badge text and color
         chrome.action.setBadgeText({
@@ -29,7 +29,7 @@ chrome.action.onClicked.addListener(function (tab) {
 // Create context menu item
 chrome.runtime.onInstalled.addListener(function () {
     chrome.contextMenus.create({
-        title: "Edit web page",
+        title: chrome.i18n.getMessage("context_menu_title"),
         contexts: ['all'],
         id: 'edit-web-page'
     });
