@@ -1,0 +1,22 @@
+{
+  "application_title": {
+    "message": "网页编辑",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "单击按钮即可轻松临时编辑网站。",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "单击以切换编辑或按 Ctrl/⌘ + 逗号。",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  },
+  "context_menu_title": {
+    "message": "编辑网页",
+    "description": "The title of the context menu item. Shown when you right click a page."
+  },
+  "badge_text": {
+    "message": "在",
+    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
+  }
+}
