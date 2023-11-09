@@ -1,0 +1,22 @@
+{
+  "application_title": {
+    "message": "Edição da Web",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "Edite facilmente sites temporariamente com o clique de um botão.",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "Clique para alternar a edição ou pressione Ctrl/⌘ + Vírgula.",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  },
+  "context_menu_title": {
+    "message": "Editar página da web",
+    "description": "The title of the context menu item. Shown when you right click a page."
+  },
+  "badge_text": {
+    "message": "SOBRE",
+    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
+  }
+}
