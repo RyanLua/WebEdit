@@ -1,0 +1,22 @@
+{
+  "application_title": {
+    "message": "Edició web",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "Editeu llocs web temporalment fàcilment amb un clic d'un botó.",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "Feu clic per canviar l'edició o premeu Ctrl/⌘ + coma.",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  },
+  "context_menu_title": {
+    "message": "Edita la pàgina web",
+    "description": "The title of the context menu item. Shown when you right click a page."
+  },
+  "badge_text": {
+    "message": "ON",
+    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
+  }
+}

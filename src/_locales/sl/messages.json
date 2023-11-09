@@ -1,0 +1,22 @@
+{
+  "application_title": {
+    "message": "Spletno urejanje",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "Enostavno začasno urejajte spletna mesta s klikom na gumb.",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "Kliknite za preklop urejanja ali pritisnite Ctrl/⌘ + vejica.",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  },
+  "context_menu_title": {
+    "message": "Uredi spletno stran",
+    "description": "The title of the context menu item. Shown when you right click a page."
+  },
+  "badge_text": {
+    "message": "VKLOP",
+    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
+  }
+}

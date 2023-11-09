@@ -1,0 +1,22 @@
+{
+  "application_title": {
+    "message": "இணைய திருத்தம்",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "ஒரு பொத்தானைக் கிளிக் செய்வதன் மூலம் இணையதளங்களைத் தற்காலிகமாக எளிதாகத் திருத்தலாம்.",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "திருத்துவதை மாற்ற கிளிக் செய்யவும் அல்லது Ctrl/⌘ + கமாவை அழுத்தவும்.",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  },
+  "context_menu_title": {
+    "message": "வலைப்பக்கத்தைத் திருத்தவும்",
+    "description": "The title of the context menu item. Shown when you right click a page."
+  },
+  "badge_text": {
+    "message": "ஆன்",
+    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
+  }
+}
