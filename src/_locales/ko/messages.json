@@ -1,0 +1,22 @@
+{
+  "application_title": {
+    "message": "웹 편집",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "버튼 클릭만으로 웹사이트를 임시로 쉽게 편집할 수 있습니다.",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "편집을 전환하려면 클릭하거나 Ctrl/⌘ + 쉼표를 누르세요.",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  },
+  "context_menu_title": {
+    "message": "웹페이지 편집",
+    "description": "The title of the context menu item. Shown when you right click a page."
+  },
+  "badge_text": {
+    "message": "에",
+    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
+  }
+}
