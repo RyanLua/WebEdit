@@ -6,8 +6,8 @@
 <div align="center">
 
   ![Edge Add-ons](https://img.shields.io/badge/download-edge?style=for-the-badge&logo=microsoftedge&label=Edge%20Add-ons&color=f3633d&link=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fdetail%2Fweb-edit%2Fknfdcflhlgfnkogoeeakccgchgeeamjj)
-  ![Chrome Web Store](https://img.shields.io/badge/download-chrome?style=for-the-badge&logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store&color=f3633d)
-  ![Opera add-ons](https://img.shields.io/badge/download-opera?style=for-the-badge&logo=opera&logoColor=white&label=Opera%20add-ons&color=f3633d)
+  <!-- ![Chrome Web Store](https://img.shields.io/badge/download-chrome?style=for-the-badge&logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store&color=f3633d) -->
+  <!-- ![Opera add-ons](https://img.shields.io/badge/download-opera?style=for-the-badge&logo=opera&logoColor=white&label=Opera%20add-ons&color=f3633d) -->
 
 
 </div>
