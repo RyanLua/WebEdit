@@ -19,7 +19,12 @@
     },
     "commands": {
         "_execute_action": {
-            "suggested_key": "Ctrl+Comma"
+            "suggested_key": {
+                "default": "Ctrl+Comma",
+                "mac": "Command+Comma",
+                "chromeos": "Ctrl+Comma",
+                "linux": "Ctrl+Comma"
+            }
         }
     },
     "permissions": ["activeTab", "scripting", "contextMenus"]
