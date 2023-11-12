@@ -20,7 +20,7 @@
     "commands": {
         "_execute_action": {
             "suggested_key": {
-                "default": "Ctrl+Comma",
+                "windows": "Ctrl+Comma",
                 "mac": "Command+Comma",
                 "chromeos": "Ctrl+Comma",
                 "linux": "Ctrl+Comma"
