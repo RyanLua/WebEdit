@@ -12,6 +12,9 @@
 
 </div>
 
+> [!IMPORTANT]
+> Web Edit is not on the Chrome Web Store due to requiring an fee to register. _If you would like to cover or donate the fee, [email me](https://ryanluu.dev/)._
+
 Easily edit websites temporarily with the click of a button. No coding or knowledge needed. Just a click to start editing and another to stop. Change any website's text effortlessly and save your changes as HTML. Format text in bold, italics, and underline.
 
 ## Usage
