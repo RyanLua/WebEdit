@@ -5,8 +5,7 @@ labels: ["enhancement"]
 body:
   - type: markdown
     attributes:
-      value: |
-        Thanks for taking the time to fill out this issue!
+      value: Thanks for taking the time to fill out this issue! Your issue with be public, please **do not include any personal information**.
   - type: textarea
     id: problem-related
     attributes:
