@@ -12,10 +12,22 @@ body:
       label: Description
       description: Write a description about the translation. Include where it is, what type of error is it, and anything else relevant.
       placeholder: When you right click to open the context menu, the text is incorrect and mispelled.
+  - type: input
+    id: incorrect-translation
+    attributes:
+      label: Incorrect Translation
+      description: What is the incorrect translation?
+      placeholder: Thiss iss aa incorrectt translatiion
+  - type: input
+    id: correct-translation
+    attributes:
+      label: Incorrect Translation
+      description: What should be the correct translation?
+      placeholder: This is a correct translation
   - type: dropdown
     id: language
     attributes:
-      label: language
+      label: Language
       description: What language is this issue occuring on?
       options:
         - Arabic
@@ -73,24 +85,6 @@ body:
         - Vietnamese
         - Chinese (China)
         - Chinese (Taiwan)
-  - type: input
-    id: incorrect-translation
-    attributes:
-      label: Incorrect Translation
-      description: What is the incorrect translation?
-      placeholder: Thiss iss aa incorrectt translatiion
-  - type: input
-    id: correct-translation
-    attributes:
-      label: Incorrect Translation
-      description: What should be the correct translation?
-      placeholder: This is a correct translation
-  - type: textarea
-    id: additional-context
-    attributes:
-      label: Additional context
-      description: Add any other context or screenshots here.
-      placeholder: Anything else? You can attach files here, this includes screenshots, videos, etc.
   - type: checkboxes
     id: terms
     attributes:
