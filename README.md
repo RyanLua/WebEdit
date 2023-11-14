@@ -40,3 +40,7 @@ Web Edit supports shortcuts, see below for a table of all the shortcuts.
 ![Screenshot 1](assets/Screenshot%201%20Web%20Edit.png)
 ![Screenshot 2](assets/Screenshot%202%20Web%20Edit.png)
 ![Screenshot 3](assets/Screenshot%203%20Web%20Edit.png)
+
+## License
+
+Licensed under [Apache License 2.0](https://www.apache.org/licenses/). See [LICENSE](LICENSE) for details.
