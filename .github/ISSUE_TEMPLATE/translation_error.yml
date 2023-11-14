@@ -1,0 +1,101 @@
+name: Translation issue
+description: Report an incorrect or request an translation.
+title: "Translation: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to fill out this issue! Your issue with be public, please **do not include any personal information**.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Write a description about the translation. Include where it is, what type of error is it, and anything else relevant.
+      placeholder: When you right click to open the context menu, the text is incorrect and mispelled.
+  - type: dropdown
+    id: language
+    attributes:
+      label: language
+      description: What language is this issue occuring on?
+      options:
+        - Arabic
+        - Amharic
+        - Bulgarian
+        - Bengali
+        - Catalan
+        - Czech
+        - Danish
+        - German
+        - Greek
+        - English
+        - English (Australia)
+        - English (Great Britain)
+        - English (USA)
+        - Spanish
+        - Spanish (Latin America and Caribbean)
+        - Estonian
+        - Persian
+        - Finnish
+        - Filipino
+        - French
+        - Gujarati
+        - Hebrew
+        - Hindi
+        - Croatian
+        - Hungarian
+        - Indonesian
+        - Italian
+        - Japanese
+        - Kannada
+        - Korean
+        - Lithuanian
+        - Latvian
+        - Malayalam
+        - Marathi
+        - Malay
+        - Dutch
+        - Norwegian
+        - Polish
+        - Portuguese (Brazil)
+        - Portuguese (Portugal)
+        - Romanian
+        - Russian
+        - Slovak
+        - Slovenian
+        - Serbian
+        - Swedish
+        - Swahili
+        - Tamil
+        - Telugu
+        - Thai
+        - Turkish
+        - Ukrainian
+        - Vietnamese
+        - Chinese (China)
+        - Chinese (Taiwan)
+  - type: input
+    id: incorrect-translation
+    attributes:
+      label: Incorrect Translation
+      description: What is the incorrect translation?
+      placeholder: Thiss iss aa incorrectt translatiion
+  - type: input
+    id: correct-translation
+    attributes:
+      label: Incorrect Translation
+      description: What should be the correct translation?
+      placeholder: This is a correct translation
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context or screenshots here.
+      placeholder: Anything else? You can attach files here, this includes screenshots, videos, etc.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: This project has a Code of Conduct that all participants are expected to understand and follow.
+      options:
+        - label: I have read and agree to the project's [Code of Conduct](../blob/main/CODE_OF_CONDUCT.md)
+          required: true
