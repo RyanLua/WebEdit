@@ -5,15 +5,12 @@
 
 <div align="center">
 
+  [![Chrome Web Store](https://img.shields.io/badge/download-chrome?style=for-the-badge&logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store&color=f3633d)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
   [![Edge Add-ons](https://img.shields.io/badge/download-edge?style=for-the-badge&logo=microsoftedge&label=Edge%20Add-ons&color=f3633d)](https://microsoftedge.microsoft.com/addons/detail/web-edit/knfdcflhlgfnkogoeeakccgchgeeamjj)
   [![Opera add-ons](https://img.shields.io/badge/download-opera?style=for-the-badge&logo=opera&logoColor=white&label=Opera%20add-ons&color=f3633d)](https://addons.opera.com/en/extensions/details/web-edit/)
   [![Firefox add-ons](https://img.shields.io/badge/download-Firefox?style=for-the-badge&logo=firefox&logoColor=white&label=Firefox%20add-ons&color=f3633d)](https://addons.mozilla.org/en-US/firefox/addon/web-edit/)
-  <!-- ![Chrome Web Store](https://img.shields.io/badge/download-chrome?style=for-the-badge&logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store&color=f3633d) -->
 
 </div>
-
-> [!IMPORTANT]
-> Web Edit is not on the [Chrome Web Store](https://chromewebstore.google.com/) due to requiring [an fee to register](https://developer.chrome.com/docs/webstore/register/#:~:text=you%20must%20register%20as%20a%20CWS%20developer%20and%20pay%20a%20one%2Dtime%20registration%20fee.). _If you would like to cover or donate the fee, [email me](https://ryanluu.dev/)._
 
 Easily edit websites temporarily with the click of a button. No coding or knowledge needed. Just a click to start editing and another to stop. Change any website's text effortlessly and save your changes as HTML. Format text in bold, italics, and underline.
 
