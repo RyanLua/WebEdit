@@ -7,8 +7,8 @@
 
   [![Chrome Web Store](https://img.shields.io/badge/download-chrome?style=for-the-badge&logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store&color=f3633d)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
   [![Edge Add-ons](https://img.shields.io/badge/download-edge?style=for-the-badge&logo=microsoftedge&label=Edge%20Add-ons&color=f3633d)](https://microsoftedge.microsoft.com/addons/detail/web-edit/knfdcflhlgfnkogoeeakccgchgeeamjj)
-  [![Opera add-ons](https://img.shields.io/badge/download-opera?style=for-the-badge&logo=opera&logoColor=white&label=Opera%20add-ons&color=f3633d)](https://addons.opera.com/en/extensions/details/web-edit/)
   [![Firefox add-ons](https://img.shields.io/badge/download-Firefox?style=for-the-badge&logo=firefox&logoColor=white&label=Firefox%20add-ons&color=f3633d)](https://addons.mozilla.org/en-US/firefox/addon/web-edit/)
+  <!-- [![Opera add-ons](https://img.shields.io/badge/download-opera?style=for-the-badge&logo=opera&logoColor=white&label=Opera%20add-ons&color=f3633d)](https://addons.opera.com/en/extensions/details/web-edit/) -->
 
 </div>
 
