@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Web Edit Icon" src="assets/Icon%20Web%20Edit.png" />
+  <img alt="Web Edit Icon" src="assets/Icon.png" />
   <h1 align="center">Web Edit</h1>
 </p>
 
@@ -60,9 +60,9 @@ Web Edit supports shortcuts, see below for a table of all the shortcuts.
 
 ## Screenshots
 
-![Screenshot 1](assets/Screenshot%201%20Web%20Edit.png)
-![Screenshot 2](assets/Screenshot%202%20Web%20Edit.png)
-![Screenshot 3](assets/Screenshot%203%20Web%20Edit.png)
+![Screenshot 1](assets/en/Screenshot%201.png)
+![Screenshot 2](assets/en/Screenshot%202.png)
+![Screenshot 3](assets/en/Screenshot%203.png)
 
 ## License
 
