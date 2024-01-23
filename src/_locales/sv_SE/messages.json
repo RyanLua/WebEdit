@@ -1,0 +1,22 @@
+{
+  "application_title": {
+    "message": "Webbredigering",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "Redigera enkelt webbplatser tillfälligt med ett klick på en knapp.",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "Klicka för att växla mellan redigering eller tryck på Ctrl/⌘ + komma.",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  },
+  "context_menu_title": {
+    "message": "Redigera webbsida",
+    "description": "The title of the context menu item. Shown when you right click a page."
+  },
+  "badge_text": {
+    "message": "PÅ",
+    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
+  }
+}
