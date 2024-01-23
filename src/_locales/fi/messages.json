@@ -1,22 +1,22 @@
 {
   "application_title": {
-    "message": "Web-muokkaus",
+    "message": "Web Edit",
     "description": "The title of the application, displayed in the web store."
   },
   "application_description": {
-    "message": "Muokkaa verkkosivustoja helposti väliaikaisesti yhdellä napin painalluksella.",
+    "message": "Easily edit websites temporarily with a click of a button.",
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
-    "message": "Napsauta vaihtaaksesi muokkausta tai paina Ctrl/Command + pilkku.",
+    "message": "Click to toggle editing or press Ctrl/⌘ + Comma.",
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {
-    "message": "Muokkaa verkkosivua",
+    "message": "Edit web page",
     "description": "The title of the context menu item. Shown when you right click a page."
   },
   "badge_text": {
-    "message": "PÄÄLLÄ",
+    "message": "ON",
     "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
   }
 }
