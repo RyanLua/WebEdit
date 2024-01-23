@@ -1,18 +1,18 @@
 {
   "application_title": {
-    "message": "Úprava webu",
+    "message": "Web Edit",
     "description": "The title of the application, displayed in the web store."
   },
   "application_description": {
-    "message": "Dočasne jednoducho upravujte webové stránky kliknutím na tlačidlo.",
+    "message": "Easily edit websites temporarily with a click of a button.",
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
-    "message": "Kliknutím prepnete úpravy alebo stlačte Ctrl/Command + čiarka.",
+    "message": "Click to toggle editing or press Ctrl/⌘ + Comma.",
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {
-    "message": "Upraviť webovú stránku",
+    "message": "Edit web page",
     "description": "The title of the context menu item. Shown when you right click a page."
   },
   "badge_text": {
