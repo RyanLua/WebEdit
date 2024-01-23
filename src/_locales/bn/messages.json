@@ -8,7 +8,7 @@
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
-    "message": "সম্পাদনা টগল করতে ক্লিক করুন বা Ctrl/Cmd + কমা টিপুন।",
+    "message": "সম্পাদনা টগল করতে ক্লিক করুন বা Ctrl/Command + কমা টিপুন।",
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {

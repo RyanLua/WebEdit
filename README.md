@@ -16,7 +16,7 @@ Easily edit websites temporarily with the click of a button. No coding or knowle
 
 ## Usage
 
-To use Web Edit once you install, click the extension or use <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>,</kbd> in website open you want to edit.
+To use Web Edit once you install, click the extension or use <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>Comma</kbd> in website open you want to edit.
 
 ### Shortcuts
 
@@ -24,13 +24,13 @@ Web Edit supports shortcuts, see below for a table of all the shortcuts.
 
 | Shortcut | Action | Description |
 | --- | --- | --- | 
-| <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>,</kbd> | Toggle editing | Toggles on and off editing mode. |
-| <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>S</kbd> | Save as | Saves the active tab including your edits as a file. |
-| <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>B</kbd> | Bold | Toggles if new or selected text is **bolded**. |
-| <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>I</kbd> | Italic | Toggles if new or selected text is *italicized*. |
-| <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>U</kbd> | Underline | Toggles if new or selected text is <ins>underlined</ins>. |
-| <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>Z</kbd> | Undo | Undo the last action/edit. |
-| <kbd>Ctrl</kbd>/<kbd>Cmd</kbd> + <kbd>Y</kbd> | Redo | Redo the last action/edit. |
+| <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>Comma</kbd> | Toggle editing | Toggles on and off editing mode. |
+| <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>S</kbd> | Save as | Saves the active tab including your edits as a file. |
+| <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>B</kbd> | Bold | Toggles if new or selected text is **bolded**. |
+| <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>I</kbd> | Italic | Toggles if new or selected text is *italicized*. |
+| <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>U</kbd> | Underline | Toggles if new or selected text is <ins>underlined</ins>. |
+| <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>Z</kbd> | Undo | Undo the last action/edit. |
+| <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>Y</kbd> | Redo | Redo the last action/edit. |
 
 ## Screenshots
 

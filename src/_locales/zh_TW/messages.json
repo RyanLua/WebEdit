@@ -8,7 +8,7 @@
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
-    "message": "點擊切換編輯或按 Ctrl/Cmd + 逗號。",
+    "message": "點擊切換編輯或按 Ctrl/Command + 逗號。",
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {

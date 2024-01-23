@@ -8,7 +8,7 @@
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
-    "message": "برای تغییر حالت ویرایش کلیک کنید یا Ctrl/Cmd + Comma را فشار دهید.",
+    "message": "برای تغییر حالت ویرایش کلیک کنید یا Ctrl/Command + Comma را فشار دهید.",
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {
