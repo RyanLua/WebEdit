@@ -6,7 +6,7 @@
 <div align="center">
 
   [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/kcjhkbajobnhihpodnphdndhmniglmpc?label=downloads)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
-  [![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/kcjhkbajobnhihpodnphdndhmniglmpc?label=version)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
+  [![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/kcjhkbajobnhihpodnphdndhmniglmpc)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
   [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/kcjhkbajobnhihpodnphdndhmniglmpc?label=version)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
 
 </div>
