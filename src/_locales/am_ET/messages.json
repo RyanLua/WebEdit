@@ -1,0 +1,22 @@
+{
+  "application_title": {
+    "message": "የድር አርትዕ",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "በአንድ አዝራር ጠቅ በማድረግ ድር ጣቢያዎችን በቀላሉ ያርትዑ።",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "Click to toggle editing or press Ctrl/Command + Comma.",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  },
+  "context_menu_title": {
+    "message": "ድረ-ገጽን ያርትዑ",
+    "description": "The title of the context menu item. Shown when you right click a page."
+  },
+  "badge_text": {
+    "message": "በርቷል",
+    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
+  }
+}
