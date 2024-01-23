@@ -8,7 +8,7 @@
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
-    "message": "Feu clic per canviar l'edició o premeu Ctrl/⌘ + coma.",
+    "message": "Feu clic per canviar l'edició o premeu Ctrl/Command + coma.",
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {

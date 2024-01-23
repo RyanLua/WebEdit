@@ -8,7 +8,7 @@
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
-    "message": "Bofya ili kugeuza kuhariri au bonyeza Ctrl/⌘ + Koma.",
+    "message": "Bofya ili kugeuza kuhariri au bonyeza Ctrl/Command + Koma.",
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {

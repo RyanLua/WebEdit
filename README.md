@@ -46,21 +46,21 @@ Installing from file is intended if you are to help develop, debug, or contribut
 
 ## Usage
 
-To use Web Edit once you have installed it, click the extension or use <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>,</kbd> to toggle editing.
+To use Web Edit once you have installed it, click the extension or use <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>Comma</kbd> to toggle editing.
 
 ### Shortcuts
 
 Web Edit supports shortcuts, see below for a table of all the shortcuts.
 
 | Shortcut | Action | Description |
-| --- | --- | --- |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>,</kbd> | Toggle editing | Toggles on and off editing mode. |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>S</kbd> | Save as | Saves the active tab including your edits as a file. |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>B</kbd> | Bold | Toggles if new or selected text is **bolded**. |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>I</kbd> | Italic | Toggles if new or selected text is *italicized*. |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>U</kbd> | Underline | Toggles if new or selected text is <ins>underlined</ins>. |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>Z</kbd> | Undo | Undo the last action/edit. |
-| <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>Y</kbd> | Redo | Redo the last action/edit. |
+| --- | --- | --- | 
+| <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>Comma</kbd> | Toggle editing | Toggles on and off editing mode. |
+| <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>S</kbd> | Save as | Saves the active tab including your edits as a file. |
+| <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>B</kbd> | Bold | Toggles if new or selected text is **bolded**. |
+| <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>I</kbd> | Italic | Toggles if new or selected text is *italicized*. |
+| <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>U</kbd> | Underline | Toggles if new or selected text is <ins>underlined</ins>. |
+| <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>Z</kbd> | Undo | Undo the last action/edit. |
+| <kbd>Ctrl</kbd>/<kbd>Command</kbd> + <kbd>Y</kbd> | Redo | Redo the last action/edit. |
 
 ## Contributing
 
