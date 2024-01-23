@@ -64,10 +64,10 @@ Web Edit supports shortcuts, see below for a table of all the shortcuts.
 
 ## Contributing
 
-[![Crowdin](https://badges.crowdin.net/web-edit/localized.svg)](https://crowdin.com/project/web-edit)
-
 > [!TIP]  
 > You can translate now by joining our [Crowdin project](https://crowdin.com/project/web-edit).
+
+[![Crowdin](https://badges.crowdin.net/web-edit/localized.svg)](https://crowdin.com/project/web-edit)
 
 We welcome all contributions whether it be fixing a translation error or adding new features. To learn how to contribute see [CONTRIBUTING.md](/.github/CONTRIBUTING.md) for details.
 
