@@ -25,8 +25,7 @@
         "mac": "Command+Comma",
         "chromeos": "Ctrl+Comma",
         "linux": "Ctrl+Comma"
-      },
-      "description": "Inject a script on the page"
+      }
     }
   },
   "permissions": ["activeTab", "scripting", "contextMenus"]
