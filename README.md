@@ -5,16 +5,20 @@
 
 <div align="center">
 
-  [![Chrome Web Store](https://img.shields.io/badge/download-chrome?style=for-the-badge&logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store&color=f3633d)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
-  [![Edge Add-ons](https://img.shields.io/badge/download-edge?style=for-the-badge&logo=microsoftedge&label=Edge%20Add-ons&color=f3633d)](https://microsoftedge.microsoft.com/addons/detail/web-edit/knfdcflhlgfnkogoeeakccgchgeeamjj)
-  [![Firefox add-ons](https://img.shields.io/badge/download-Firefox?style=for-the-badge&logo=firefox&logoColor=white&label=Firefox%20add-ons&color=f3633d)](https://addons.mozilla.org/en-US/firefox/addon/web-edit/)
-  <!-- [![Opera add-ons](https://img.shields.io/badge/download-opera?style=for-the-badge&logo=opera&logoColor=white&label=Opera%20add-ons&color=f3633d)](https://addons.opera.com/en/extensions/details/web-edit/) -->
+  [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/kcjhkbajobnhihpodnphdndhmniglmpc)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
+  [![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/kcjhkbajobnhihpodnphdndhmniglmpc)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
+  [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/kcjhkbajobnhihpodnphdndhmniglmpc?label=version)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
 
 </div>
 
 Easily edit websites temporarily with the click of a button. No coding or knowledge needed. Just a click to start editing and another to stop. Change any website's text effortlessly and save your changes as HTML. Format text in bold, italics, and underline.
 
 ## Installation
+
+[![Chrome Web Store](https://img.shields.io/badge/download-chrome?logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
+[![Edge Add-ons](https://img.shields.io/badge/download-edge?logo=microsoftedge&label=Edge%20Add-ons)](https://microsoftedge.microsoft.com/addons/detail/web-edit/knfdcflhlgfnkogoeeakccgchgeeamjj)
+[![Firefox add-ons](https://img.shields.io/badge/download-Firefox?logo=firefox&logoColor=white&label=Firefox%20add-ons)](https://addons.mozilla.org/en-US/firefox/addon/web-edit/)
+[![Opera add-ons](https://img.shields.io/badge/download-opera?logo=opera&logoColor=white&label=Opera%20add-ons)](https://addons.opera.com/en/extensions/details/web-edit/)
 
 Installation of Web Edit is simple and easy. They are two ways to install Web Edit.
 
@@ -49,7 +53,7 @@ To use Web Edit once you have installed it, click the extension or use <kbd>Ctrl
 Web Edit supports shortcuts, see below for a table of all the shortcuts.
 
 | Shortcut | Action | Description |
-| --- | --- | --- | 
+| --- | --- | --- |
 | <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>,</kbd> | Toggle editing | Toggles on and off editing mode. |
 | <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>S</kbd> | Save as | Saves the active tab including your edits as a file. |
 | <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>B</kbd> | Bold | Toggles if new or selected text is **bolded**. |
