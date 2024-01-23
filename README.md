@@ -71,12 +71,14 @@ Web Edit supports shortcuts, see below for a table of all the shortcuts.
 
 We welcome all contributions whether it be fixing a translation error or adding new features. To learn how to contribute see [CONTRIBUTING.md](/.github/CONTRIBUTING.md) for details.
 
+## License
+
+[![GitHub License](https://img.shields.io/github/license/RyanLua/WebEdit)](https://github.com/RyanLua/WebEdit/blob/main/LICENSE)
+
+Licensed under [Apache License 2.0](https://www.apache.org/licenses/). See [LICENSE](LICENSE) for details.
+
 ## Screenshots
 
 ![Screenshot 1](assets/en/Screenshot%201.png)
 ![Screenshot 2](assets/en/Screenshot%202.png)
 ![Screenshot 3](assets/en/Screenshot%203.png)
-
-## License
-
-Licensed under [Apache License 2.0](https://www.apache.org/licenses/). See [LICENSE](LICENSE) for details.
