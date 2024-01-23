@@ -1,10 +1,10 @@
 {
   "application_title": {
-    "message": "網頁編輯",
+    "message": "网页编辑",
     "description": "The title of the application, displayed in the web store."
   },
   "application_description": {
-    "message": "點擊按鈕即可輕鬆臨時編輯網站。",
+    "message": "单击按钮即可轻松临时编辑网站。",
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
@@ -12,7 +12,7 @@
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {
-    "message": "編輯網頁",
+    "message": "编辑网页",
     "description": "The title of the context menu item. Shown when you right click a page."
   },
   "badge_text": {
