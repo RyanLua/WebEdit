@@ -79,4 +79,6 @@ We welcome all contributions whether it be fixing a translation error or adding 
 
 ## License
 
+[![GitHub License](https://img.shields.io/github/license/RyanLua/WebEdit)](https://github.com/RyanLua/WebEdit/blob/main/LICENSE)
+
 Licensed under [Apache License 2.0](https://www.apache.org/licenses/). See [LICENSE](LICENSE) for details.
