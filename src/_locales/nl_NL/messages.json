@@ -1,0 +1,22 @@
+{
+  "application_title": {
+    "message": "Webbewerking",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "Bewerk websites eenvoudig tijdelijk met één klik op de knop.",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "Klik om bewerken in of uit te schakelen of druk op Ctrl/⌘ + Komma.",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  },
+  "context_menu_title": {
+    "message": "Webpagina bewerken",
+    "description": "The title of the context menu item. Shown when you right click a page."
+  },
+  "badge_text": {
+    "message": "OP",
+    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
+  }
+}
