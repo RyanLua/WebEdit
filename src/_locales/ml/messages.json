@@ -8,7 +8,7 @@
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
-    "message": "എഡിറ്റിംഗ് ടോഗിൾ ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക അല്ലെങ്കിൽ Ctrl/Command + കോമ അമർത്തുക.",
+    "message": "Click to toggle editing or press Ctrl/Command + Comma.",
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {
