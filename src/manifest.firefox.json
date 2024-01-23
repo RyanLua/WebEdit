@@ -15,16 +15,21 @@
     },
     "author": "ryan.luu@ryanluu.dev",
     "background": {
-        "service_worker": "background.js"
+        "scripts": ["background.js"]
     },
     "commands": {
         "_execute_action": {
             "suggested_key": {
-                "default": "Ctrl+Comma",
+                "windows": "Ctrl+Comma",
                 "mac": "Command+Comma",
                 "chromeos": "Ctrl+Comma",
                 "linux": "Ctrl+Comma"
             }
+        }
+    },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "webedit@ryanluu.dev"
         }
     },
     "permissions": ["activeTab", "scripting", "contextMenus"]

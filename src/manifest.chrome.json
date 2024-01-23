@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_application_title__",
+  "description": "__MSG_application_description__",
+  "version": "1.0.1",
+  "default_locale": "en_US",
+  "icons": {
+    "16": "icons/16.png",
+    "32": "icons/32.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
+  "action": {
+    "default_title": "__MSG_action_title__"
+  },
+  "author": "ryan.luu@ryanluu.dev",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Comma",
+        "windows": "Ctrl+Comma",
+        "mac": "Command+Comma",
+        "chromeos": "Ctrl+Comma",
+        "linux": "Ctrl+Comma"
+      },
+      "description": "Inject a script on the page"
+    }
+  },
+  "permissions": ["activeTab", "scripting", "contextMenus"]
+}
