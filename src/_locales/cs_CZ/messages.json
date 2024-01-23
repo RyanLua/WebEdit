@@ -1,0 +1,22 @@
+{
+  "application_title": {
+    "message": "Úprava webu",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "Snadno dočasně upravujte webové stránky kliknutím na tlačítko.",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "Kliknutím přepnete úpravy nebo stiskněte Ctrl/⌘ + čárka.",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  },
+  "context_menu_title": {
+    "message": "Upravit webovou stránku",
+    "description": "The title of the context menu item. Shown when you right click a page."
+  },
+  "badge_text": {
+    "message": "NA",
+    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
+  }
+}
