@@ -8,7 +8,7 @@
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
-    "message": "Düzenlemeye geçiş yapmak için tıklayın veya Ctrl/⌘ + Virgül tuşlarına basın.",
+    "message": "Düzenlemeye geçiş yapmak için tıklayın veya Ctrl/Cmd + Virgül tuşlarına basın.",
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {

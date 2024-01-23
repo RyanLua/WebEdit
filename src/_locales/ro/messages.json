@@ -8,7 +8,7 @@
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
-    "message": "Faceți clic pentru a comuta la editare sau apăsați Ctrl/⌘ + virgulă.",
+    "message": "Faceți clic pentru a comuta la editare sau apăsați Ctrl/Cmd + virgulă.",
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {

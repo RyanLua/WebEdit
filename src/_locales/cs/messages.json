@@ -8,7 +8,7 @@
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
-    "message": "Kliknutím přepnete úpravy nebo stiskněte Ctrl/⌘ + čárka.",
+    "message": "Kliknutím přepnete úpravy nebo stiskněte Ctrl/Cmd + čárka.",
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {

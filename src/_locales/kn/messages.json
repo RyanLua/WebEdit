@@ -8,7 +8,7 @@
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
-    "message": "ಸಂಪಾದನೆಯನ್ನು ಟಾಗಲ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ ಅಥವಾ Ctrl/⌘ + ಅಲ್ಪವಿರಾಮ ಒತ್ತಿರಿ.",
+    "message": "ಸಂಪಾದನೆಯನ್ನು ಟಾಗಲ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ ಅಥವಾ Ctrl/Cmd + ಅಲ್ಪವಿರಾಮ ಒತ್ತಿರಿ.",
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {

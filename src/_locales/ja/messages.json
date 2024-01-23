@@ -8,7 +8,7 @@
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
-    "message": "クリックして編集を切り替えるか、Ctrl/⌘ + カンマを押します。",
+    "message": "クリックして編集を切り替えるか、Ctrl/Cmd + カンマを押します。",
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {
