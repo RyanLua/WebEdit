@@ -1,0 +1,22 @@
+{
+  "application_title": {
+    "message": "Edycja internetowa",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "Z łatwością edytuj tymczasowo strony internetowe jednym kliknięciem.",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "Kliknij, aby przełączyć edycję, lub naciśnij Ctrl/⌘ + przecinek.",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  },
+  "context_menu_title": {
+    "message": "Edytuj stronę internetową",
+    "description": "The title of the context menu item. Shown when you right click a page."
+  },
+  "badge_text": {
+    "message": "NA",
+    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
+  }
+}
