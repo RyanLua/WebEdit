@@ -1,6 +1,5 @@
 name: Translation issue
 description: Report an incorrect or request an translation.
-title: "Translation: "
 labels: ["enhancement"]
 body:
   - type: markdown
