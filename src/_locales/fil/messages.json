@@ -8,7 +8,7 @@
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
-    "message": "Click to toggle editing or press Ctrl/Command + Comma.",
+    "message": "I-click upang i-toggle ang pag-edit o pindutin ang Ctrl/Command + Comma.",
     "description": "The title of the action, displayed when the extension icon is hovered over."
   },
   "context_menu_title": {
