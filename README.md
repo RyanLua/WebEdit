@@ -8,7 +8,7 @@
   [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/kcjhkbajobnhihpodnphdndhmniglmpc?label=downloads)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
   [![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/kcjhkbajobnhihpodnphdndhmniglmpc)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
   [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/kcjhkbajobnhihpodnphdndhmniglmpc?label=version)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
-  [![Discord](https://img.shields.io/discord/1162303282002272359?label=discord)](https://discord.gg/hYU4rvT7DK)
+  [![Discord](https://img.shields.io/discord/1162303282002272359?label=discord)](https://discord.gg/BsDzre2YHs)
 
 </div>
 
