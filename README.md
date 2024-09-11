@@ -16,10 +16,13 @@ Easily edit websites temporarily with the click of a button. No coding or knowle
 
 ## Installation
 
-[![Chrome Web Store](https://img.shields.io/badge/download-chrome?logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
-[![Edge Add-ons](https://img.shields.io/badge/download-edge?logo=microsoftedge&label=Edge%20Add-ons)](https://microsoftedge.microsoft.com/addons/detail/web-edit/knfdcflhlgfnkogoeeakccgchgeeamjj)
-[![Firefox add-ons](https://img.shields.io/badge/download-Firefox?logo=firefox&logoColor=white&label=Firefox%20add-ons)](https://addons.mozilla.org/en-US/firefox/addon/web-edit/)
-[![Opera add-ons](https://img.shields.io/badge/download-opera?logo=opera&logoColor=white&label=Opera%20add-ons)](https://addons.opera.com/en/extensions/details/web-edit/)
+<img src="assets/ChromeBadge.svg" alt="Chrome Web Store" width="">
+
+<img src="assets/EdgeBadge.svg" alt="Edge Add-ons" width="128">
+
+<img src="assets/FirefoxBadge.svg" alt="Firefox Add-ons" width="">
+
+<img src="assets/OperaBadge.svg" alt="Opera Add-ons" width="">
 
 Installation of Web Edit is simple and easy. They are two ways to install Web Edit.
 
