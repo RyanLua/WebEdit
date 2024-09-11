@@ -16,7 +16,7 @@ Easily edit websites temporarily with the click of a button. No coding or knowle
 
 ## Installation
 
-<img src="assets/ChromeBadge.svg" alt="Chrome Web Store" height="64"> <img src="assets/EdgeBadge.svg" alt="Edge Add-ons" height="64"> <img src="assets/FirefoxBadge.svg" alt="Firefox Add-ons" height="64"> <img src="assets/OperaBadge.svg" alt="Opera Add-ons" height="64">
+<img src="assets/ChromeBadge.svg" alt="Chrome Web Store" height="64" href="https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc"> <img src="assets/EdgeBadge.svg" alt="Edge Add-ons" height="64" href="https://microsoftedge.microsoft.com/addons/detail/web-edit/knfdcflhlgfnkogoeeakccgchgeeamjj"> <img src="assets/FirefoxBadge.svg" alt="Firefox Add-ons" height="64" href="https://addons.mozilla.org/en-US/firefox/addon/web-edit/"> <img src="assets/OperaBadge.svg" alt="Opera Add-ons" height="64" href="https://addons.opera.com/en/extensions/details/web-edit">
 
 ### Install from extension store (Recommended)
 
