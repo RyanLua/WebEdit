@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Web Edit Icon" src="assets/Icon.png" />
+  <img alt="Web Edit Icon" src="assets/Icon.svg" width="128">
   <h1 align="center">Web Edit</h1>
 </p>
 
