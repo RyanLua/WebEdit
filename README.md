@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Web Edit Icon" src="assets/Icon.png" />
+  <img alt="Web Edit Icon" src="assets/Icon.svg" width="128">
   <h1 align="center">Web Edit</h1>
 </p>
 
@@ -16,12 +16,10 @@ Easily edit websites temporarily with the click of a button. No coding or knowle
 
 ## Installation
 
-[![Chrome Web Store](https://img.shields.io/badge/download-chrome?logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
-[![Edge Add-ons](https://img.shields.io/badge/download-edge?logo=microsoftedge&label=Edge%20Add-ons)](https://microsoftedge.microsoft.com/addons/detail/web-edit/knfdcflhlgfnkogoeeakccgchgeeamjj)
-[![Firefox add-ons](https://img.shields.io/badge/download-Firefox?logo=firefox&logoColor=white&label=Firefox%20add-ons)](https://addons.mozilla.org/en-US/firefox/addon/web-edit/)
-[![Opera add-ons](https://img.shields.io/badge/download-opera?logo=opera&logoColor=white&label=Opera%20add-ons)](https://addons.opera.com/en/extensions/details/web-edit/)
-
-Installation of Web Edit is simple and easy. They are two ways to install Web Edit.
+[<img src="assets/ChromeBadge.svg" alt="Chrome Web Store" height="64">](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
+[<img src="assets/EdgeBadge.svg" alt="Edge Add-ons" height="64">](https://microsoftedge.microsoft.com/addons/detail/web-edit/knfdcflhlgfnkogoeeakccgchgeeamjj)
+[<img src="assets/FirefoxBadge.svg" alt="Firefox Add-ons" height="64">](https://addons.mozilla.org/en-US/firefox/addon/web-edit/)
+[<img src="assets/OperaBadge.svg" alt="Opera Add-ons" height="64">](https://addons.opera.com/en/extensions/details/web-edit)
 
 ### Install from extension store (Recommended)
 
