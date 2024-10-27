@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "https://classroom.google.com",
+            "runtimeArgs": [
+                "--load-extension=${workspaceFolder}/src"
+            ]
+        },
+        {
+            "name": "Launch Edge",
+            "request": "launch",
+            "type": "msedge",
+            "url": "https://classroom.google.com",
+            "runtimeArgs": [
+                "--load-extension=${workspaceFolder}/src"
+            ]
+        }
+    ]
+}
