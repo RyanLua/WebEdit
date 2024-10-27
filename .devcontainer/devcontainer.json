@@ -1,0 +1,12 @@
+{
+	"name": "Web Edit",
+	"image": "mcr.microsoft.com/devcontainers/universal:2-linux",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"dbaeumer.vscode-eslint"
+			]
+		}
+	},
+	"postCreateCommand": "chmod +x ./scripts/build.sh && npm install"
+}
