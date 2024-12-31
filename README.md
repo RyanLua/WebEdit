@@ -30,18 +30,18 @@ Installing from the extension store is great for if you are just planning to use
    * Google Chrome, Chromium: [Chrome Web Store](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
    * Opera, Opera GX: [Opera Add-ons](https://addons.opera.com/en/extensions/details/web-edit)
    * Firefox: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/web-edit/)
-2. Open the store page and click <kbd>Get</kbd>
-3. Add the extension by clicking <kbd>Add extension</kbd>
-4. You are done, see how to use web edit below.
+1. Open the store page and click <kbd>Get</kbd>
+1. Add the extension by clicking <kbd>Add extension</kbd>
+1. You are done, see how to use web edit below.
 
 ### Install from file
 
 Installing from file is intended if you are to help develop, debug, or contribute Web Edit. Installing from files **does NOT allow for automatic updates**.
 
 1. Download Web Edit from [GitHub Releases](https://github.com/RyanLua/WebEdit/releases)
-2. Go to your browser's extension page.
-3. Enable developer mode and extension debugging
-4. Click <kbd>Load unpacked</kbd> and select the Web Edit file to load
+1. Go to your browser's extension page.
+1. Enable developer mode and extension debugging
+1. Click <kbd>Load unpacked</kbd> and select the Web Edit file to load
 
 ## Usage
 
