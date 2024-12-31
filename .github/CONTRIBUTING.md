@@ -7,9 +7,9 @@ All code relating to the extension can be found under the `src` directory. There
 To load the extension into your browser:
 
 1. Navigate to your extension's page (`edge://extensions` for Edge)
-2. Enable "Developer mode"
-3. Click "Load unpacked" and select the `src` directory
-4. You now should see the extension under **Installed extensions > From other sources**
+1. Enable "Developer mode"
+1. Click "Load unpacked" and select the `src` directory
+1. You now should see the extension under **Installed extensions > From other sources**
 
 When have reviewed all changed code and checked for any bugs or issues you can create a [new pull request](https://github.com/RyanLua/WebEdit/compare) to get your changes merged.
 
