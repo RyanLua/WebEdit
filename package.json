@@ -1,6 +1,6 @@
 {
   "name": "web-edit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easily edit websites temporarily by a click of a button",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
