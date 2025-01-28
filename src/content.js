@@ -22,3 +22,10 @@ if (document.body.contentEditable === 'true') {
     // Enable editing
     document.body.contentEditable = 'true';
 }
+
+// Block clicking when editing
+document.addEventListener('click', function (e) {
+    if (document.body.contentEditable === 'true') {
+        e.stopImmediatePropagation();
+    }
+}, true);
