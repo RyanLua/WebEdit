@@ -17,6 +17,6 @@
   "homepage": "https://github.com/RyanLua/WebEdit#readme",
   "devDependencies": {
     "eslint": "^9.19.0",
-    "globals": "^15.12.0"
+    "globals": "^15.14.0"
   }
 }
