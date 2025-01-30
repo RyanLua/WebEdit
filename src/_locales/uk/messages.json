@@ -4,7 +4,7 @@
     "description": "The title of the application, displayed in the web store."
   },
   "application_description": {
-    "message": "Легко тимчасово редагуйте веб-сайти одним натисканням кнопки.",
+    "message": "Легко редагуйте вебсайти тимчасово одним натисканням кнопки.",
     "description": "The description of the application, displayed in the web store."
   },
   "action_title": {
