@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Web Edit Icon" src="assets/Icon.svg" width="128">
+  <img alt="Web Edit Icon" src="assets/icon.svg" width="128">
   <h1 align="center">Web Edit</h1>
 </p>
 
@@ -16,10 +16,10 @@ Easily edit websites temporarily with the click of a button. No coding or knowle
 
 ## Installation
 
-[<img src="assets/ChromeBadge.svg" alt="Chrome Web Store" height="64">](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
-[<img src="assets/EdgeBadge.svg" alt="Edge Add-ons" height="64">](https://microsoftedge.microsoft.com/addons/detail/web-edit/knfdcflhlgfnkogoeeakccgchgeeamjj)
-[<img src="assets/FirefoxBadge.svg" alt="Firefox Add-ons" height="64">](https://addons.mozilla.org/en-US/firefox/addon/web-edit/)
-[<img src="assets/OperaBadge.svg" alt="Opera Add-ons" height="64">](https://addons.opera.com/en/extensions/details/web-edit)
+[<img src="assets/chrome-badge.svg" alt="Chrome Web Store" height="64">](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
+[<img src="assets/edge-badge.svg" alt="Edge Add-ons" height="64">](https://microsoftedge.microsoft.com/addons/detail/web-edit/knfdcflhlgfnkogoeeakccgchgeeamjj)
+[<img src="assets/firefox-badge.svg" alt="Firefox Add-ons" height="64">](https://addons.mozilla.org/en-US/firefox/addon/web-edit/)
+[<img src="assets/opera-badge.svg" alt="Opera Add-ons" height="64">](https://addons.opera.com/en/extensions/details/web-edit)
 
 ### Install from extension store (Recommended)
 
@@ -72,6 +72,6 @@ We welcome all contributions whether it be fixing a translation error or adding 
 
 ## Screenshots
 
-![Screenshot 1](assets/en/Screenshot%201.png)
-![Screenshot 2](assets/en/Screenshot%202.png)
-![Screenshot 3](assets/en/Screenshot%203.png)
+![Screenshot 1](assets/en/screenshot-1.png)
+![Screenshot 2](assets/en/screenshot-2.png)
+![Screenshot 3](assets/en/screenshot-3.png)
