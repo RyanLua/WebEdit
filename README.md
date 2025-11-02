@@ -8,7 +8,7 @@
   [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/kcjhkbajobnhihpodnphdndhmniglmpc?label=downloads)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
   [![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/kcjhkbajobnhihpodnphdndhmniglmpc)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
   [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/kcjhkbajobnhihpodnphdndhmniglmpc?label=version)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
-  [![Discord](https://img.shields.io/discord/1162303282002272359?label=discord)](https://discord.gg/BsDzre2YHs)
+  [![GitHub License](https://img.shields.io/github/license/RyanLua/WebEdit)](https://github.com/RyanLua/WebEdit/blob/main/LICENSE.md)
 
 </div>
 
@@ -69,12 +69,6 @@ Web Edit supports shortcuts, see below for a table of all the shortcuts.
 [![Crowdin](https://badges.crowdin.net/web-edit/localized.svg)](https://crowdin.com/project/web-edit)
 
 We welcome all contributions whether it be fixing a translation error or adding new features. To learn how to contribute see [CONTRIBUTING.md](/.github/CONTRIBUTING.md) for details.
-
-## License
-
-[![GitHub License](https://img.shields.io/github/license/RyanLua/WebEdit)](https://github.com/RyanLua/WebEdit/blob/main/LICENSE)
-
-Licensed under [Apache License 2.0](https://www.apache.org/licenses/). See [LICENSE](LICENSE) for details.
 
 ## Screenshots
 
