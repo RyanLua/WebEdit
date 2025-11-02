@@ -16,10 +16,10 @@ Easily edit websites temporarily with the click of a button. No coding or knowle
 
 ## Installation
 
-[<img src="assets/chrome-badge.png" alt="Chrome Web Store" height="64">](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
-[<img src="assets/edge-badge.png" alt="Edge Add-ons" height="64">](https://microsoftedge.microsoft.com/addons/detail/web-edit/knfdcflhlgfnkogoeeakccgchgeeamjj)
-[<img src="assets/firefox-badge.png" alt="Firefox Add-ons" height="64">](https://addons.mozilla.org/en-US/firefox/addon/web-edit/)
-[<img src="assets/opera-badge.png" alt="Opera Add-ons" height="64">](https://addons.opera.com/en/extensions/details/web-edit)
+[<img height="50" alt="Chrome Web Store" src="assets/chrome-badge.png">](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
+[<img height="50" alt="Edge Add-ons" src="assets/edge-badge.png">](https://microsoftedge.microsoft.com/addons/detail/web-edit/knfdcflhlgfnkogoeeakccgchgeeamjj)
+[<img height="50" alt="Firefox Add-ons" src="assets/firefox-badge.png">](https://addons.mozilla.org/en-US/firefox/addon/web-edit/)
+[<img height="50" alt="Opera Add-ons" src="assets/opera-badge.png">](https://addons.opera.com/en/extensions/details/web-edit)
 
 ### Install from extension store (Recommended)
 
