@@ -63,7 +63,7 @@ Web Edit supports shortcuts, see below for a table of all the shortcuts.
 
 ## Contributing
 
-> [!TIP]  
+> [!TIP]
 > You can translate now by joining our [Crowdin project](https://crowdin.com/project/web-edit).
 
 [![Crowdin](https://badges.crowdin.net/web-edit/localized.svg)](https://crowdin.com/project/web-edit)

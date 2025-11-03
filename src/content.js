@@ -1,11 +1,11 @@
 /*
-Copyright 2023 Ryan Luu
+Copyright 2025 Ryan Luu
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-    http://www.apache.org/licenses/LICENSE-2.0
+  http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
@@ -16,16 +16,16 @@ limitations under the License.
 
 // Toggle content editable
 if (document.body.contentEditable === 'true') {
-    // Disable editing
-    document.body.contentEditable = 'false';
+  // Disable editing
+  document.body.contentEditable = 'false';
 } else {
-    // Enable editing
-    document.body.contentEditable = 'true';
+  // Enable editing
+  document.body.contentEditable = 'true';
 }
 
 // Block clicking when editing
 document.addEventListener('click', function (e) {
-    if (document.body.contentEditable === 'true') {
-        e.stopImmediatePropagation();
-    }
+  if (document.body.contentEditable === 'true') {
+    e.stopImmediatePropagation();
+  }
 }, true);
