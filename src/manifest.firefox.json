@@ -29,7 +29,7 @@
     },
     "browser_specific_settings": {
         "gecko": {
-            "id": "webedit@ryanluu.dev"
+            "id": "web-edit@ryanluu.dev"
         }
     },
     "permissions": ["activeTab", "scripting", "contextMenus"]

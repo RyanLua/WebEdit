@@ -5,8 +5,8 @@ echo "Building extension..."
 
 VERSION=$(grep -oP '"version":\s*"\K[0-9.]+(?=")' src/manifest.json)
 BUILD_DIR="builds"
-CHROMIUM_FOLDER="WebEdit-$VERSION-chromium"
-FIREFOX_FOLDER="WebEdit-$VERSION-firefox"
+CHROMIUM_FOLDER="web-edit-$VERSION-chromium"
+FIREFOX_FOLDER="web-edit-$VERSION-firefox"
 
 # Setup build directory
 echo "Cleaning up build directory..."

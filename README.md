@@ -8,7 +8,7 @@
   [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/kcjhkbajobnhihpodnphdndhmniglmpc?label=downloads)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
   [![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/kcjhkbajobnhihpodnphdndhmniglmpc)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
   [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/kcjhkbajobnhihpodnphdndhmniglmpc?label=version)](https://chromewebstore.google.com/detail/kcjhkbajobnhihpodnphdndhmniglmpc)
-  [![GitHub License](https://img.shields.io/github/license/RyanLua/WebEdit)](https://github.com/RyanLua/WebEdit/blob/main/LICENSE.md)
+  [![GitHub License](https://img.shields.io/github/license/ryanlua/web-edit)](https://github.com/ryanlua/web-edit/blob/main/LICENSE.md)
 
 </div>
 
@@ -38,7 +38,7 @@ Installing from the extension store is great for if you are just planning to use
 
 Installing from file is intended if you are to help develop, debug, or contribute Web Edit. Installing from files **does NOT allow for automatic updates**.
 
-1. Download Web Edit from [GitHub Releases](https://github.com/RyanLua/WebEdit/releases)
+1. Download Web Edit from [GitHub Releases](https://github.com/ryanlua/web-edit/releases)
 1. Go to your browser's extension page.
 1. Enable developer mode and extension debugging
 1. Click <kbd>Load unpacked</kbd> and select the Web Edit file to load
